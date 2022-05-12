@@ -88,6 +88,11 @@ p {
     color: white;
 }
 
+.btncard:hover {
+    background-color: rgb(10, 136, 79);
+    transition: 0.7s;
+}
+
 #content2 {
     background-color: white;
     grid-area: content2;
